@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueStorage", "QueueStorage\QueueStorage.csproj", "{2F53D824-D081-4281-81E5-38C7B35C965B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionAppQueue2", "FunctionAppQueue2\FunctionAppQueue2.csproj", "{85D041BB-F115-4374-A7F2-8EDDB5F1F415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F53D824-D081-4281-81E5-38C7B35C965B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F53D824-D081-4281-81E5-38C7B35C965B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F53D824-D081-4281-81E5-38C7B35C965B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F53D824-D081-4281-81E5-38C7B35C965B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85D041BB-F115-4374-A7F2-8EDDB5F1F415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85D041BB-F115-4374-A7F2-8EDDB5F1F415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85D041BB-F115-4374-A7F2-8EDDB5F1F415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85D041BB-F115-4374-A7F2-8EDDB5F1F415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F8E4345-C710-48E5-A7CD-3B3E8DA8FE9C}
+	EndGlobalSection
+EndGlobal
